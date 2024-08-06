@@ -94,5 +94,6 @@ const sendRequest = async () => {
 };
 
 sendRequest();
-
+```
+![UML sequence diagram](NodeMailerDiagram.png)
 
